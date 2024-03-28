@@ -8,7 +8,7 @@ From there, in the terminal, input the following commands:
 ```
 cd .../src
 ```
-cd must be used to change to the src folder of the downloaded React folder. This address could vary user to user. 
+cd must be used to change to the src folder of the downloaded EA2React folder. This address could vary user to user. 
 ```
 npm run dev
 ```
