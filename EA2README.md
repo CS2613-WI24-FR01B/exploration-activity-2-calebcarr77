@@ -22,15 +22,21 @@ The todo list is a simple app, there is a form to create new todo item, an optio
 See the following screenshots outlining the process of creating new todos, editing them, checking them off, and deleting them. 
 Todo items will be saved to local storage, meaning if the app is closed, the state of the todo app will be saved. 
 ### Creating todos
-Notice that in addition to the two existing todo items, a *go to class* item has been created.
+Notice that in addition to the two existing todo items, a *go to class* item has been created:
+<p align="center"><img width="500" alt="Creating Item 2" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/6bb62b71-15b7-4ffb-8224-9448cbd14317">
+
+
+<p align="center"><img width="500" alt="Creating Item" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/db2206a3-c4bd-45f5-9fa7-f5ace9fbc9d8"></p>
+
 ### Editing todos
-Notice the *get the mail* item has been changed to *get the groceries*.
+Notice the *get the mail* item has been changed to *get the groceries*:
+<p align="center"><img width="500" alt="Editiing Itme" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/27c5481d-8b9a-4d5e-9193-bd7f2b9ab058"></p>
+
+
 ### Completing toodos
-Notice that the *water the plants* and *go to class* items have been checked off.
+Notice that the *water the plants* and *go to class* items have been checked off:
+<p align="center"><img width="500" alt="Check off" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/8d4ba7f5-e54a-498b-98ec-da2e485514fa"></p>
+
 ### Deleting todos
-Notice that the *get the groceries* item has been checked off. 
-
-
-```python
-
-```
+Notice that the *get the groceries* item has been checked off:
+<p align="center"><img width="500" alt="Delete" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/e0f62718-8537-4bf7-8a33-468b4484b496"></p>
