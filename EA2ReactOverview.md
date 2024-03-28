@@ -20,10 +20,10 @@ By the end of this document the following questions will be answered:
 In *2013* React was released [[ref](https://www.mygreatlearning.com/react-js/tutorials/history-of-reactjs#)]. React is a JavaScript library desgined for building user interfaces. 
 
 ### How is React Used
-React has a wide range of abilities and useful tools. React's strength comes from it's ability to break down a UI into a component based design. This means React can create functional, interactive UI components, such as a button, form, list, etc. React can integrate these components together to create an elaborate UI. Building UI through an component based architecture enables ease of reusabliity and maintenance.
+React has a wide range of abilities and useful tools. React's strength comes from it's ability to break down a UI into a component based design. This means React can create functional, interactive UI components, such as a button, form, list, etc. React can integrate these components to create an elaborate UI. Building UI through an component based architecture enables ease of reusabliity and maintenance.
 
 ## Functionality
-This section will go describe a variety of React's functionalities.
+This section will describe a variety of React's functionalities.
 
 ### Getting Started
 When beginning a react project, Node.js as well as NPM must be installed on your device. The following link provides steps to install these [[Install Node.js and NPM](https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac)].
@@ -142,10 +142,10 @@ The code above will produce this app, where to +, -, and reset buttons adjust th
 React is a powerful tool with a massive amount of functionalities. React's official documentation outlines the full capabilities [[documentation](https://react.dev)].
 
 ## Why was React chosen for this activity
-React was chosen for this acitvity as I beleive it will be a valuable tool to have in my arsenal throughout my programming career. Web design is the field of computer science I would like to work in, so this was a great opprotunity to learn new skills. 
+React was chosen for this acitvity as I beleive it will be a valuable tool to have in my arsenal throughout my programming career. Web design is the field of computer science I would like to work in, so this was a great opportunity to learn new skills. 
 
 ## How did learning React affect my learning of the language
-Learning React did not significantly effect my learning of JavaScript. React stands on it own, learning felt more like learning a new language entirely. Although it helped me gain an understanding of importing and utilzing parts of code from other files. 
+Learning React did not significantly affect my learning of JavaScript. React stands on it own, learning felt more like learning a new language entirely. Although it helped me gain an understanding of importing and utilizing parts of code from other files. 
 
 ## My overall experience with React
-My experience with React was great. It was a challenging tool to learn, but highly useful. I would recommmend React to anyone working with web design. Understanding React will be a great asset throughout my programming career, especially if I am working with front end web design. I will absolutely continue to use it.
+My experience with React was great. It was a challenging tool to learn, but highly useful. I would recommmend React to anyone working with web design. Understanding React will be an asset throughout my programming career, especially if I am working with front end web design. I will absolutely continue to use it.
