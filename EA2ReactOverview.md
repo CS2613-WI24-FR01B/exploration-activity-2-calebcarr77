@@ -1,7 +1,6 @@
-# <center>CS2613 Exploratory Assignment 2</center>
-# <center>Caleb Carr</center>
-![alt text](https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124)
-
+# CS2613 Exploratory Assignment 2 
+# Caleb Carr
+[![image](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/6e4a9468-3775-43e1-b5d9-f9c9c7231549)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F67605317%2Freact-show-png-image-with-transparent-style-background&psig=AOvVaw2YoLFYw8XbwOpc-SyO_Up3&ust=1711730931831000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDyxuK0l4UDFQAAAAAdAAAAABAE)
 
 ## Introduction
 For this assignment, I chose to explore the JavaScript library called *React*.
@@ -18,7 +17,7 @@ By the end of this document the following questions will be answered:
 ## What is React?
 
 ### What is React's Purpose?
-In *2013* React was released. [[ref](https://www.mygreatlearning.com/react-js/tutorials/history-of-reactjs#)]. React is a JavaScript library desgined for building user interfaces. 
+In *2013* React was released [[ref](https://www.mygreatlearning.com/react-js/tutorials/history-of-reactjs#)]. React is a JavaScript library desgined for building user interfaces. 
 
 ### How is React Used
 React has a wide range of abilities and useful tools. React's strength comes from it's ability to break down a UI into a component based design. This means React can create functional, interactive UI components, such as a button, form, list, etc. React can integrate these components together to create an elaborate UI. Building UI through an component based architecture enables ease of reusabliity and maintenance.
@@ -64,9 +63,7 @@ Within the react files that has been created using the commands lines above, ope
     </label>
 </form>
 ```
-This will add a simple text box form to the default react app as shown below:
-
-![Form%20Screenshot.png](attachment:Form%20Screenshot.png)
+This will add a simple text box form to the default react app.
 
 
 #### Button Counter
@@ -83,7 +80,7 @@ Within the app.js file, add the following code for the header and buttons:
     </div>
 </div>
 ```
-**ADD SCREENSHOT OF BUTTON**
+
 #### Use state
 Now it is time to make use of a powerful react tool called *useState*. This is a type of a hook that allows the user to add state to a functional component. It is comprised of an array with two values, the current state and a fucntion to update it. The *hook* takes an initial value as an argument and returns the updates state value whenever the *setter* function is called. Below is an example pertaining to the button example. [[ref](https://blog.logrocket.com/guide-usestate-react/#:~:text=useState%20is%20React%20Hook%20that,the%20setter%20function%20is%20called.)]
 ```js
@@ -136,8 +133,11 @@ return (
     </div>
   );
 ```
-The code above will produce this app:
-**Insert SS**
+The code above will produce this app, where to +, -, and reset buttons adjust the counter value (currently 4):
+
+<p align="center"><img width="500" alt="Screenshot 2024-03-28 at 12 54 44 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-calebcarr77/assets/97684864/002a5bb1-bf6d-4aaf-b4b4-280a2c3c1b40"></p>
+
+
 
 React is a powerful tool with a massive amount of functionalities. React's official documentation outlines the full capabilities [[documentation](https://react.dev)].
 
